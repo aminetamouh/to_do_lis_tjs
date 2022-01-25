@@ -1,7 +1,7 @@
 #core h1{
     text-align: center;
-    color: coral;
-    text-shadow: 5px 5px 5px black;
+    color: black;
+    text-shadow: 5px 5px 5px rgb(126, 124, 124);
     margin-bottom: 30px;
     margin-top: 40px;
 }
@@ -14,12 +14,12 @@
     font-size: 20px;
 }
 .icons .fa-trash{
-    color: rgb(180, 131, 131);
+    color: rgb(207, 126, 126);
     padding-right: 10px;
     cursor: pointer;
 }
 .icons .fa-user-edit{
-    color: rgb(107, 107, 167);
+    color: rgb(116, 116, 202);
     padding-right: 10px;
     cursor: pointer;
 }
